@@ -1,0 +1,11 @@
+{
+  "name": "owlmem",
+  "version": "1.0.0",
+  "description": "Shared memory and teamwork for AI agents: a knowledge base, memories, tasks between your AIs and an encrypted vault. Works with Claude, ChatGPT, Cursor, Codex and Gemini.",
+  "mcpServers": {
+    "owlmem": {
+      "httpUrl": "https://mcp.owlmem.com/mcp"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
